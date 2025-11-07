@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-contact p, .about-content', { origin: "right"});
 
 /*--------------- scroll reveal ---------------*/
 const typed = new Typed(".multiple-text", {
-    strings:["UI/UX Designer","Frontent Developer","Web Designer"],
+    strings:["UI/UX Designer","Web Designer"],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
